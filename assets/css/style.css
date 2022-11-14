@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.form{
+    margin-left: 60px;
+}
+.form h1{
+    margin-left: 15px;
+    margin-bottom: 20px;
+}
+.form img{
+    width: 200px;
+    height: 200px;
+}
+.form .image-and-information{
+    position: relative;
+}
+
+.form .image-and-information .my-info{
+    
+    display: inline-block;
+    margin-left: 30px;
+    position: absolute;
+}
+
+.form .image-and-information .my-info p{
+    margin-bottom: 6px;
+}
+
+.main-part h3{
+    margin-top: 30px;
+}
+
+table{
+    width: 50%;
+}
+td,th {
+    border: 1px solid black;
+}
